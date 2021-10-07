@@ -5,7 +5,7 @@
 </div>
 
 ## :arrow_down: Oʻrnatish
-To get a local copy installed and working, follow these steps:
+Bu bot orqali xohlagan musiqani topish mumkinTo get a local copy installed and working, follow these steps:
 
  - Clone this repository
 

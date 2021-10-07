@@ -10,8 +10,8 @@ from os.path import join, dirname
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
-TOKEN = os.environ.get("TOKEN")
-bot = telepotpro.Bot(TOKEN)
+TOKEN = os.environ.get("1967939532:AAG1EfE_7yq8VOD_laTdeKK6JD8lp-64vRk")
+bot = telepotpro.Bot(1967939532:AAG1EfE_7yq8VOD_laTdeKK6JD8lp-64vRk)
 
 class Music:
     def __init__(self, user_input, msg):
@@ -61,7 +61,7 @@ class Chat:
 
         self.messages = {
             'start':'👋Salom, '+ self.user_name +'!\n\n'
-                    '📩 Bu bot orqali xohlagan musiqangizni topishingiz mumkin me:\n\n'
+                    '📩 Bu bot orqali xohlagan musiqangizni topishingiz mumkin✅\n\n'
                     '"*/music* _komandasidan keyin musiqani nomini yozing✅_"  or\n'
                     '"*/music* _musician name - song name_"\n\n'
                     'to order some music. 🎶',

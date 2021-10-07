@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/henriqueclaranhan/telegram-music-downloader-bot/blob/master/icon.png" width="190">
-  <h1>Music Downloader Bot</h1>
-  Bu bot orqali xohlagan musiqani topish mumkin Silkasi👇 <a href="https://t.me/MusicDownloader_bot">@MusicDownloader_bot</a> 
+  <h1>Musiqa Topib beruvchi Bot</h1>
+  Bu bot orqali xohlagan musiqani topish mumkin Silkasi👇 <a href="https://t.me/Music_finder_uzbot">@Music_finder_uzbot</a> 
 </div>
 
 ## :arrow_down: Oʻrnatish

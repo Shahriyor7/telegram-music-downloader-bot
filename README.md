@@ -4,7 +4,7 @@
   A Telegram bot to download music from YouTube. Click <a href="https://t.me/TLMusicDownloader_bot">@TLMusicDownloader_bot</a> to use.
 </div>
 
-## :arrow_down: Installation
+## :arrow_down: Oʻrnatish
 To get a local copy installed and working, follow these steps:
 
  - Clone this repository

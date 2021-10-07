@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://github.com/henriqueclaranhan/telegram-music-downloader-bot/blob/master/icon.png" width="190">
   <h1>Music Downloader Bot</h1>
-  A Telegram bot to download music from YouTube. Click <a href="https://t.me/TLMusicDownloader_bot">@TLMusicDownloader_bot</a> to use.
+  Bu bot orqali xohlagan musiqani topish mumkin.Silkasi👉 <a href="https://t.me/MusicDownloader_bot">@MusicDownloader_bot</a> 
 </div>
 
 ## :arrow_down: Oʻrnatish
-Bu bot orqali xohlagan musiqani topish mumkin
 To get a local copy installed and working, follow these steps:
 
  - Clone this repository

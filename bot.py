@@ -61,20 +61,20 @@ class Chat:
 
         self.messages = {
             'start':'👋Salom, '+ self.user_name +'!\n\n'
-                    '📩 Send me:\n\n'
-                    '"*/music* _song name_"  or\n'
+                    '📩 Bu bot orqali xohlagan musiqangizni topishingiz mumkin me:\n\n'
+                    '"*/music* _komandasidan keyin musiqani nomini yozing✅_"  or\n'
                     '"*/music* _musician name - song name_"\n\n'
                     'to order some music. 🎶',
             
-            'spotify_input_error':"‼️ *Oops! The bot doesn't support Spotify links!*\n"
+            'spotify_input_error':"‼️ *⛔Xato! The bot doesn't support Spotify links!*\n"
                     'Try: "*/music* _song name_"\n'
                     'or: "*/music* _musician name - song name_"',
 
-            'invalid_command':'‼️ *Oops! Invalid command!*\n'
+            'invalid_command':'‼️ *⛔Nomalum komanda!*\n'
                     'Try: "*/music* _song name_"\n'
                     'or: "*/music* _musician name - song name_"',
 
-            'too_long':'‼️ *Oops! Video too long to convert!*\n'
+            'too_long':'‼️ *⛔Xato! Video too long to convert!*\n'
                     'Order something 30 minutes or less.'
 
 
@@ -116,7 +116,7 @@ class Chat:
             try:
                 self.send_audio(file_name)
                 self.delete_message(downloading_message)
-                self.send_message('✅ Sucess!')
+                self.send_message('✅ Musiqa topildi✅')
                 print ("\nSucess!\n")
             except:
                 print("\nError")
